@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\bin\Debug\netcoreapp3.1\Guess game.exe
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\bin\Debug\netcoreapp3.1\Guess game.deps.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\bin\Debug\netcoreapp3.1\Guess game.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\bin\Debug\netcoreapp3.1\Guess game.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\bin\Debug\netcoreapp3.1\Guess game.dll
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\bin\Debug\netcoreapp3.1\Guess game.pdb
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\obj\Debug\netcoreapp3.1\Guess game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\obj\Debug\netcoreapp3.1\Guess game.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\obj\Debug\netcoreapp3.1\Guess game.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\obj\Debug\netcoreapp3.1\Guess game.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\obj\Debug\netcoreapp3.1\Guess game.dll
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\obj\Debug\netcoreapp3.1\Guess game.pdb
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\obj\Debug\netcoreapp3.1\Guess game.genruntimeconfig.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Guess game\obj\Debug\netcoreapp3.1\Guess game.csproj.AssemblyReference.cache
