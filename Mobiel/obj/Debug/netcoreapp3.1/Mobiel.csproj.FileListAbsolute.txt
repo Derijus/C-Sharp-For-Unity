@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\obj\Debug\netcoreapp3.1\Mobiel.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\obj\Debug\netcoreapp3.1\Mobiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\obj\Debug\netcoreapp3.1\Mobiel.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\obj\Debug\netcoreapp3.1\Mobiel.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\obj\Debug\netcoreapp3.1\Mobiel.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\bin\Debug\netcoreapp3.1\Mobiel.exe
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\bin\Debug\netcoreapp3.1\Mobiel.deps.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\bin\Debug\netcoreapp3.1\Mobiel.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\bin\Debug\netcoreapp3.1\Mobiel.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\bin\Debug\netcoreapp3.1\Mobiel.dll
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\bin\Debug\netcoreapp3.1\Mobiel.pdb
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\obj\Debug\netcoreapp3.1\Mobiel.dll
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\obj\Debug\netcoreapp3.1\Mobiel.pdb
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Mobiel\obj\Debug\netcoreapp3.1\Mobiel.genruntimeconfig.cache
