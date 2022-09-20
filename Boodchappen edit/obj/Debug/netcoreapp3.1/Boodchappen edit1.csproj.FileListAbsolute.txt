@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\bin\Debug\netcoreapp3.1\Boodchappen edit1.exe
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\bin\Debug\netcoreapp3.1\Boodchappen edit1.deps.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\bin\Debug\netcoreapp3.1\Boodchappen edit1.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\bin\Debug\netcoreapp3.1\Boodchappen edit1.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\bin\Debug\netcoreapp3.1\Boodchappen edit1.dll
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\bin\Debug\netcoreapp3.1\Boodchappen edit1.pdb
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\obj\Debug\netcoreapp3.1\Boodchappen edit1.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\obj\Debug\netcoreapp3.1\Boodchappen edit1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\obj\Debug\netcoreapp3.1\Boodchappen edit1.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\obj\Debug\netcoreapp3.1\Boodchappen edit1.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\obj\Debug\netcoreapp3.1\Boodchappen edit1.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\obj\Debug\netcoreapp3.1\Boodchappen edit1.dll
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\obj\Debug\netcoreapp3.1\Boodchappen edit1.pdb
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodchappen edit1\obj\Debug\netcoreapp3.1\Boodchappen edit1.genruntimeconfig.cache

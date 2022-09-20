@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\obj\Debug\netcoreapp3.1\Boodschappen.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\obj\Debug\netcoreapp3.1\Boodschappen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\obj\Debug\netcoreapp3.1\Boodschappen.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\obj\Debug\netcoreapp3.1\Boodschappen.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\obj\Debug\netcoreapp3.1\Boodschappen.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\bin\Debug\netcoreapp3.1\Boodschappen.exe
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\bin\Debug\netcoreapp3.1\Boodschappen.deps.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\bin\Debug\netcoreapp3.1\Boodschappen.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\bin\Debug\netcoreapp3.1\Boodschappen.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\bin\Debug\netcoreapp3.1\Boodschappen.dll
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\bin\Debug\netcoreapp3.1\Boodschappen.pdb
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\obj\Debug\netcoreapp3.1\Boodschappen.dll
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\obj\Debug\netcoreapp3.1\Boodschappen.pdb
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Boodschappen\obj\Debug\netcoreapp3.1\Boodschappen.genruntimeconfig.cache

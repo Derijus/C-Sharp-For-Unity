@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\bin\Debug\netcoreapp3.1\Leukste Computerspel.exe
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\bin\Debug\netcoreapp3.1\Leukste Computerspel.deps.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\bin\Debug\netcoreapp3.1\Leukste Computerspel.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\bin\Debug\netcoreapp3.1\Leukste Computerspel.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\bin\Debug\netcoreapp3.1\Leukste Computerspel.dll
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\bin\Debug\netcoreapp3.1\Leukste Computerspel.pdb
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\obj\Debug\netcoreapp3.1\Leukste Computerspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\obj\Debug\netcoreapp3.1\Leukste Computerspel.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\obj\Debug\netcoreapp3.1\Leukste Computerspel.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\obj\Debug\netcoreapp3.1\Leukste Computerspel.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\obj\Debug\netcoreapp3.1\Leukste Computerspel.dll
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\obj\Debug\netcoreapp3.1\Leukste Computerspel.pdb
+C:\Users\Gebruiker\source\repos\C-sharp for Unity\Leukste Computerspel\obj\Debug\netcoreapp3.1\Leukste Computerspel.genruntimeconfig.cache
