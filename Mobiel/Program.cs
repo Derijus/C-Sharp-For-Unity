@@ -52,6 +52,7 @@ namespace MobielShop
                     Console.WriteLine("Ongeldige invoer.");
                 }
             }
+            static void BTW(double prijs){}
             double btw = prijs * 0.21;
             double prijsIncl = prijs + btw;
             if (prijs < 600)
